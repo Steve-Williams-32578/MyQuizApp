@@ -9,5 +9,5 @@
     <color name="white">#FFFFFFFF</color>
     <color name="holo_green_light">#86C839</color>
     <color name="holo_red_light">#FCE33838</color>
-
+    <color name="grey">#FCCCC5C5</color>
 </resources>
